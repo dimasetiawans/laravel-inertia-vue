@@ -42,7 +42,7 @@ composer.json     # PHP dependencies
 ## 🚀 Installation & Usage
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/username/laravel-inertia-vue.git
+   git clone https://github.com/dimaseatiawans/laravel-inertia-vue.git
    cd laravel-inertia-vue
    ```
 
