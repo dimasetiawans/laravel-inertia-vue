@@ -1,8 +1,3 @@
-<script setup>
-import AppLayout from '@/Layouts/AppLayout.vue';
-defineOptions({ layout : AppLayout})
-</script>
-
 <template>
     <h1 class="h3 mb-4 text-gray-800">Dashboard</h1>
     <div class="row">
