@@ -121,20 +121,6 @@ Implements SB Admin behaviors without jQuery:
 - Layout persistence via localStorage
 
 
-## 🔐 Authentication (To-Do)
-
-Basic `Signin.vue` page is included.  
-You can integrate **Laravel Breeze (Inertia version)** for full auth flow:
-
-```bash
-composer require laravel/breeze --dev
-php artisan breeze:install vue
-```
-
-Then adapt it to use your `AuthLayout.vue`.
-
----
-
 ## 🧰 Developer Commands
 
 | Command | Description |
@@ -159,7 +145,7 @@ CACHE_DRIVER=database
 
 ## 🧤 License
 
-MIT © 2025 — Built by **Your Name**
+MIT © 2025 — Built by **dimasetiawans**
 
 
 ### ❤️ Credits
